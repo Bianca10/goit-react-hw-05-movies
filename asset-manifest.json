@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Bianca10/goit-react-hw-05-movies.git/static/css/main.34c66c56.css",
+    "main.js": "/Bianca10/goit-react-hw-05-movies.git/static/js/main.2c6d1927.js",
+    "static/css/433.47b0119a.chunk.css": "/Bianca10/goit-react-hw-05-movies.git/static/css/433.47b0119a.chunk.css",
+    "static/js/433.2b849174.chunk.js": "/Bianca10/goit-react-hw-05-movies.git/static/js/433.2b849174.chunk.js",
+    "static/css/653.aca6bdf8.chunk.css": "/Bianca10/goit-react-hw-05-movies.git/static/css/653.aca6bdf8.chunk.css",
+    "static/js/653.d4f5ff29.chunk.js": "/Bianca10/goit-react-hw-05-movies.git/static/js/653.d4f5ff29.chunk.js",
+    "static/css/888.ce3a40e7.chunk.css": "/Bianca10/goit-react-hw-05-movies.git/static/css/888.ce3a40e7.chunk.css",
+    "static/js/888.a40f6e6c.chunk.js": "/Bianca10/goit-react-hw-05-movies.git/static/js/888.a40f6e6c.chunk.js",
+    "static/css/483.88fbac66.chunk.css": "/Bianca10/goit-react-hw-05-movies.git/static/css/483.88fbac66.chunk.css",
+    "static/js/483.72178ab8.chunk.js": "/Bianca10/goit-react-hw-05-movies.git/static/js/483.72178ab8.chunk.js",
+    "static/css/168.506928f2.chunk.css": "/Bianca10/goit-react-hw-05-movies.git/static/css/168.506928f2.chunk.css",
+    "static/js/168.863c1117.chunk.js": "/Bianca10/goit-react-hw-05-movies.git/static/js/168.863c1117.chunk.js",
+    "static/js/279.03bad638.chunk.js": "/Bianca10/goit-react-hw-05-movies.git/static/js/279.03bad638.chunk.js",
+    "static/media/movie.png": "/Bianca10/goit-react-hw-05-movies.git/static/media/movie.c1a10aece069091eb9a6.png",
+    "index.html": "/Bianca10/goit-react-hw-05-movies.git/index.html",
+    "main.34c66c56.css.map": "/Bianca10/goit-react-hw-05-movies.git/static/css/main.34c66c56.css.map",
+    "main.2c6d1927.js.map": "/Bianca10/goit-react-hw-05-movies.git/static/js/main.2c6d1927.js.map",
+    "433.47b0119a.chunk.css.map": "/Bianca10/goit-react-hw-05-movies.git/static/css/433.47b0119a.chunk.css.map",
+    "433.2b849174.chunk.js.map": "/Bianca10/goit-react-hw-05-movies.git/static/js/433.2b849174.chunk.js.map",
+    "653.aca6bdf8.chunk.css.map": "/Bianca10/goit-react-hw-05-movies.git/static/css/653.aca6bdf8.chunk.css.map",
+    "653.d4f5ff29.chunk.js.map": "/Bianca10/goit-react-hw-05-movies.git/static/js/653.d4f5ff29.chunk.js.map",
+    "888.ce3a40e7.chunk.css.map": "/Bianca10/goit-react-hw-05-movies.git/static/css/888.ce3a40e7.chunk.css.map",
+    "888.a40f6e6c.chunk.js.map": "/Bianca10/goit-react-hw-05-movies.git/static/js/888.a40f6e6c.chunk.js.map",
+    "483.88fbac66.chunk.css.map": "/Bianca10/goit-react-hw-05-movies.git/static/css/483.88fbac66.chunk.css.map",
+    "483.72178ab8.chunk.js.map": "/Bianca10/goit-react-hw-05-movies.git/static/js/483.72178ab8.chunk.js.map",
+    "168.506928f2.chunk.css.map": "/Bianca10/goit-react-hw-05-movies.git/static/css/168.506928f2.chunk.css.map",
+    "168.863c1117.chunk.js.map": "/Bianca10/goit-react-hw-05-movies.git/static/js/168.863c1117.chunk.js.map",
+    "279.03bad638.chunk.js.map": "/Bianca10/goit-react-hw-05-movies.git/static/js/279.03bad638.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34c66c56.css",
+    "static/js/main.2c6d1927.js"
+  ]
+}
